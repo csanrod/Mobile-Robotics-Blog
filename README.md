@@ -1,4 +1,4 @@
-# MobileRoboticsBlog
+# Mobile Robotics Blog
 Here I will post some documentation about the development of some projects related to mobile robotics.
 
 # Obstacle avoidance video links [Reentrega]
